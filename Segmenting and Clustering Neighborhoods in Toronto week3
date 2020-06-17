@@ -512,7 +512,7 @@
     "#path = \"C:\\Coursera\\IBM_Data_Sience_Capstone\\Geospatial_Coordinates.csv\"\n",
     "#path = \"C:/Coursera/IBM_Data_Sience_Capstone/Geospatial_Coordinates.csv\"\n",
     "\n",
-    "df_cor = pd.read_csv(r\"C:\\EDX\\Geospatial_Coordinates.csv\")\n",
+    "df_cor = pd.read_csv(r\"Geospatial_Coordinates.csv\")\n",
     "df_cor.head()\n",
     "\n"
    ]
